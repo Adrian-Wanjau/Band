@@ -1,0 +1,19 @@
+img{
+    float: right;
+    width: 50%;
+    height: 50%;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: 10mm;
+}
+body{
+    background-color: dimgray;
+}
+p{
+    font-size: 8mm;
+}
+.important{
+    font-style: italic;
+}
